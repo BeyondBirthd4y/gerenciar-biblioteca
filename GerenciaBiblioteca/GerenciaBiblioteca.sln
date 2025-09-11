@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciaBiblioteca.View", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciaBiblioteca.Domain", "GerenciaBiblioteca.Domain\GerenciaBiblioteca.Domain.csproj", "{0A708944-458B-463E-A918-C9DF91D68E5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciaBiblioteca.Tests", "GerenciaBiblioteca.Tests\GerenciaBiblioteca.Tests.csproj", "{FF6AC56D-D651-4E8F-A216-A5CE63FAD3B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{0A708944-458B-463E-A918-C9DF91D68E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A708944-458B-463E-A918-C9DF91D68E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A708944-458B-463E-A918-C9DF91D68E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF6AC56D-D651-4E8F-A216-A5CE63FAD3B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6AC56D-D651-4E8F-A216-A5CE63FAD3B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6AC56D-D651-4E8F-A216-A5CE63FAD3B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6AC56D-D651-4E8F-A216-A5CE63FAD3B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
